@@ -1,0 +1,8 @@
+{
+  "products":[
+     {
+        "name":"iphone 12 pro",
+        "image":"img/1.jpg",
+        "price":"100000",
+        "dpprice":"70000"
+     }]}

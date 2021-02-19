@@ -1,0 +1,33 @@
+{
+  "products":[
+     {
+        "name":"iphone 12 pro",
+        "image":"img/1.jpg",
+        "price":"100000",
+        "dpprice":"70000"
+     },{
+        "name":"iphone 12max",
+        "image":"img/2.jpg",
+        "price":"120000",
+        "dpprice":"100000"
+     },{
+        "name":"k20",
+        "image":"img/3.jpg",
+        "price":"27000",
+        "dpprice":"25000"
+      },{
+        "name":"oppo A7",
+        "image":"img/4.jpg",
+        "price":"15000",
+        "dpprice":"14000"
+      },
+      {
+        "name":"nokia 3300",
+        "image":"img/5.jpg",
+        "price":"1800",
+        "dpprice":"1500"
+      }
+    ]
+
+
+}
